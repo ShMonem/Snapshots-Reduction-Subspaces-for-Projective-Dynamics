@@ -1,3 +1,7 @@
+# This file is part of the animSnapBases project (https://github.com/ShMonem/animSnapBases).
+# Copyright animSnapBases developers and contributors. All rights reserved.
+# License: Apache-2.0
+
 After reproducing the data as described in the main README.md, you can test how close your bases matrices to the ones computed for the paper.
 1. Testing in ``Commandline``
     - Test the computed PCA bases
